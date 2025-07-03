@@ -1,7 +1,3 @@
-AUTHOR: Oluwaseun Samuel Ogunmeru
-
-STUDENT ID: 101229829
-
 PROGRAM DESCRIPTION: This program manages the animal and customer data for a veterinary clinic.
                      The end user will be able to print all the clinic's data or the animal data
                      or customer information only.
